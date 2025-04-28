@@ -1,1 +1,3 @@
 # RNGoalsApp
+
+Checking connection
